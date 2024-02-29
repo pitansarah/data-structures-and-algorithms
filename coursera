@@ -1,0 +1,10 @@
+ARRAYS
+
+array--a contiguous area of memory consisting of equal-size elements indexed by contiguous integers
+
+arrays have constant-time access to read, constant-time access to write
+
+array address : array_addr
+
+  array_addr + elem_size x (i - first_index )
+
