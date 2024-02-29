@@ -1,1 +1,1 @@
-# data-structures-and-algorithms
+Notes on data structures and algorithms, from various free, online sources.
