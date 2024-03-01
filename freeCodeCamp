@@ -1,76 +1,11 @@
-Algorithms and Data Structures Tutorial - Full Course for Beginners
-https://www.youtube.com/watch?v=8hly31xKli0&t=2662s
 
-algorithm--a set of steps or instructions for completing a task
-
-when running into problems when coding it's useful to know of different algorithms so you don't waste time; solutions to most of the issues you're facing have been solved before
-
-it's important to know what an algorithm does and when to apply it
-
-algorithmic thinking--solving problems with algorithms
-
-when solving a problem it's important to clearly define what the problem set is and, specify what values counts as inputs
-
-with any given problem there are many ways to solve a problem, you need to find the best solution for your context
-
-ex : the time that social media uses to look up a user matters
-
-search algorithms
-linear, simple, or sequential search
-binary search : a sorted array is repeatedly divided in half until a solution is found
-
-algorithms must have a clear problem statement, input, and output
-
-algorithms must contain a specific number of distinct steps in a particular order
-
-algorithms should produce a result
-
-algorithms should actually complete and cannot take and infinite amount of time
-
-when dealing with a large problem, break down the problem into smaller problems each defined in terms of an input and output
-
-correctness--an algorithm is correct if it receives valid input, terminates, and always returns the correct output
-
-efficiency--comes in two measures of time complexity defined in running time and space complexity (ex: memory) measured in ...
-
-we can measure the efficiency of an algorithm in the best case scenario, average case, and worse case scenario
-
-worst case scenarios are used as a benchmark of performance
-
-when a computer executes a binary search it returns a position in a data list rather than the item in the data list itself
-
-the growth rate, or order of growth--rates how efficient in time and space an algorithm is based on how large n amount of options grows
-
-big O
-
-a theoretical definition of the complexity of an algorithm as a function of the size
-
-a variable, notated O(n), O--order of magnitude of complexity
-
-n is size, big O is a function of size
-
-the upper bound of the algorithm, big O measures the worst case scenario
-
-relative to other algorithms
-
-linear search has a time complexity of O(n)
-
-binary search has a time complexity of O(log n)
-
-algorithms don't necessarily have just one measure of complexity
-
-when O(1) the amount of time for an algorithm to find a solution is constant despite the number of options
-
-quadratic complexity :
-
-___________________________________________
 Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
 https://www.youtube.com/watch?v=RBSGKlAvoiM
 
-data structures help to manage and organize data so algorithms can run through them efficiently
-
-data structures make code cleaner
+data structure -- a way of organizing data so that it can be used effectively
 
 abstract data types vs data structures : 
+
+
 
 
