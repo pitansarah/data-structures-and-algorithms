@@ -61,5 +61,16 @@ algorithms don't necessarily have just one measure of complexity
 
 when O(1) the amount of time for an algorithm to find a solution is constant despite the number of options
 
+quadratic complexity :
+
+___________________________________________
+Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
+https://www.youtube.com/watch?v=RBSGKlAvoiM
+
+data structures help to manage and organize data so algorithms can run through them efficiently
+
+data structures make code cleaner
+
+abstract data types vs data structures : 
 
 
